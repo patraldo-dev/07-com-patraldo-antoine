@@ -1,6 +1,6 @@
 <script>
-  import Gallery from '$lib/components/Gallery.svelte';
-  import EmailSignup from '$lib/components/EmailSignup.svelte';
+  import Gallery from '#lib/components/Gallery.svelte';
+  import EmailSignup from '#lib/components/EmailSignup.svelte';
 </script>
 <svelte:head>
   <title>Antoine Patraldo - Visual Artist</title>
